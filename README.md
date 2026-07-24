@@ -351,10 +351,7 @@ Delivered end-to-end ML projects spanning fraud detection and workforce analysis
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-handle)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-darshan4748q-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/darshan4748q/)
 
 </div>
 
