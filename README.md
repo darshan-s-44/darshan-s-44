@@ -1,5 +1,3 @@
-# DARSHAN-S
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DARSHAN%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=58&descSize=18" width="100%"/>
@@ -15,9 +13,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://darshan-s-44.github.io/DARSHAN.S-personal-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-s-884685400)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.cbe87@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-s-44)
 
 <br/>
@@ -46,7 +44,7 @@ focus:
 
 <div align="center">
 
-I'm a Data Science student with a strong foundation in **Machine Learning** and **Deep Learning**, focused on building end-to-end intelligent systems — from data pipelines and model training to production-ready full-stack deployment. My work spans computer vision (medical imaging), NLP (voice & conversational agents), and classical algorithmic engineering (routing & optimization), backed by a product engineering mindset that values clean architecture as much as model accuracy.
+I'm a 4th-year Integrated M.Sc. Data Science student at Amrita Vishwa Vidyapeetham (graduating May 2028), turning raw data into decisions that move the needle. I've published **IEEE research** on brain tumor detection using a Hybrid ASPP-integrated CNN (96%+ accuracy on MRI benchmarks, beating standard CNN baselines), built a production-oriented conversational AI agent with LangGraph (intent detection, RAG-powered retrieval, WhatsApp webhook deployment, stateful sessions), and shipped an end-to-end voice assistant pipeline (Whisper ASR → DistilBERT intent → gTTS, exposed via FastAPI with Swagger docs and WER evaluation). Currently juggling three remote data science internships spanning compliance dashboards, predictive modeling, and fraud detection / workforce analytics.
 
 </div>
 
@@ -55,10 +53,10 @@ I'm a Data Science student with a strong foundation in **Machine Learning** and 
 <td>
 
 **🎯 Open To**
-- AI/ML Engineering Internships
-- Full-Stack Development Roles
+- Internship Opportunities (Summer 2026, Winter 2026-28)
+- Full-Time Data Scientist / Data Analyst / ML Engineer roles (from June 2028)
+- Teams where data drives product decisions and models ship to real users
 - Research Collaborations in Deep Learning
-- Open Source Contributions
 
 </td>
 </tr>
@@ -269,18 +267,46 @@ A structured, phase-driven approach to EDA that reflects disciplined data analys
 
 ## 💼 Experience
 
-**Your Job Title** · Your Company Name
-`Month Year — Present`
+**Data Science Intern — Data Visualization** · Excelerate
+`Remote`
 
-Brief professional description of your role and impact goes here.
+Built a compliance analytics dashboard, translating raw compliance data into actionable visual insights for stakeholder decision-making.
 
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
+- Designed and developed interactive dashboards for compliance tracking
+- Applied data visualization best practices (Looker Studio / Tableau / Power BI)
+- Delivered stakeholder-ready analytics reporting
 
-`Skill Tag` `Skill Tag` `Skill Tag`
+`Data Visualization` `Looker Studio` `Tableau` `Power BI`
 
-> *Replace this section with your actual work/internship experience.*
+<br/>
+
+**Data Science Intern — AI Analytics** · Excelerate
+`Remote`
+
+Built predictive models for student participation analytics, applying machine learning to forecast engagement patterns.
+
+- Developed predictive modeling pipelines for participation data
+- Performed feature engineering and model evaluation
+- Translated model outputs into actionable engagement insights
+
+`Predictive Modeling` `Python` `Scikit-Learn` `Data Analysis`
+
+<br/>
+
+**Data Science Intern** · Ten Tech Entrepreneurship Network
+`Remote`
+
+Delivered end-to-end ML projects spanning fraud detection and workforce analysis, from data preprocessing to model deployment.
+
+- Built fraud detection models using classification techniques
+- Conducted workforce analysis using statistical and ML methods
+- Owned projects end-to-end: data cleaning → modeling → evaluation
+
+`Fraud Detection` `Workforce Analytics` `Python` `Machine Learning`
+
+<br/>
+
+> *Currently a 4th-year Integrated M.Sc. Data Science student at Amrita Vishwa Vidyapeetham (July 2023 – July 2028), open to internships (Summer/Winter 2026-28) and full-time Data Scientist / Data Analyst / ML Engineer roles from June 2028.*
 
 <br/>
 
@@ -290,7 +316,8 @@ Brief professional description of your role and impact goes here.
 
 | Recognition | Details |
 |---|---|
-| Achievement Placeholder | Add your hackathon wins, publications, or awards here |
+| **IEEE Published Researcher** | Published IEEE research on brain tumor detection using a Hybrid ASPP-Integrated CNN, achieving 96%+ accuracy on MRI benchmark datasets — outperforming standard CNN baselines |
+| Achievement Placeholder | Add hackathon wins or other awards here |
 
 </div>
 
@@ -402,10 +429,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.cbe87@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-s-884685400)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-s-44)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://darshan-s-44.github.io/DARSHAN.S-personal-portfolio/)
 
 </div>
 
