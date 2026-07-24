@@ -327,23 +327,21 @@ Delivered end-to-end ML projects spanning fraud detection and workforce analysis
 
 <div align="center">
 
-**AWS**
+| Certification | Issued By |
+|---------------|-----------|
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) |
+| 🤖 **Machine Learning Specialization** | IBM |
+| 🛡️ **Ethical Hacking** | LearnKartS |
+| 🎨 **Introduction to UI/UX Design** | IBM |
+| 💻 **Responsive Web Design (Full Stack Foundation)** | freeCodeCamp |
 
-![AWS](https://img.shields.io/badge/AWS-Certification%20Name-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<br/>
 
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-*(Replace placeholders above with your actual certifications)*
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Machine%20Learning%20Specialization-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![LearnKartS](https://img.shields.io/badge/LearnKartS-Ethical%20Hacking-8A2BE2?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM-UI%2FUX%20Design-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Full%20Stack-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 </div>
 
