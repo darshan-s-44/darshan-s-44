@@ -1,12 +1,3 @@
-# Complete Setup — Profile README + Snake Animation Workflow
-
-Two files, both final. Copy each into your `darshan-s-44/darshan-s-44` repo at the path shown.
-
----
-
-## 1. `README.md` (repo root)
-
-````markdown
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DARSHAN%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=58&descSize=18)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DARSHAN%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=58&descSize=18)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Data+Science+%40+Amrita+Vishwa+Vidyapeetham;Machine+Learning+%26+Deep+Learning+Engineer;Building+Intelligent+AI+%26+Full-Stack+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
@@ -321,16 +312,6 @@ Delivered end-to-end ML projects spanning fraud detection and workforce analysis
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 🔭 Current Focus
 
 ```yaml
@@ -360,54 +341,16 @@ Open To:
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 *"Building intelligent systems, one model at a time."*
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-````
-
----
-
-## 2. `.github/workflows/snake.yml`
-
-````yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"      # regenerates once a day at 00:00 UTC
-  workflow_dispatch:          # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main                 # change this to "master" if that's your repo's default branch
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation from contribution graph
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push generated SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-````
-
----
-
-**Setup reminder:** after adding `snake.yml`, go to Settings → Actions → General → Workflow permissions, enable "Read and write permissions", then push a commit or run the workflow manually from the Actions tab. That creates the `output` branch with the two snake SVGs the README points to.
