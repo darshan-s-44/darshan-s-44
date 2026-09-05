@@ -178,49 +178,6 @@ A hybrid deep learning model combining Atrous Spatial Pyramid Pooling (ASPP) wit
 
 Applies atrous convolutions to capture multi-scale spatial context — a technique borrowed from semantic segmentation research — to a medical imaging classification task.
 
-### 🔀 Microchip Routing System — Dijkstra-Based GUI
-
-A GUI-based microchip routing system using Dijkstra's algorithm with interactive graph editing and real-time visualization of routing paths.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, GUI framework, Graph algorithms |
-| **Scale** | Interactive real-time routing visualization |
-| **Performance** | Path caching and congestion-aware routing optimization |
-| **Impact** | Demonstrates applied graph theory in circuit design tooling |
-| **Repository** | [microchip-routing-system](https://github.com/darshan-s-44/microchip-routing-system) |
-
-Extends classical Dijkstra pathfinding with practical engineering constraints like congestion and caching, bridging algorithms coursework with real routing-tool design.
-
-### 🥛 Dairy Procurement Management System
-
-A full-stack system to digitize and automate the milk procurement lifecycle, from farmer collection to processing, backed by structured SQL databases.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | TypeScript, SQL, Full-Stack Architecture |
-| **Scale** | End-to-end procurement lifecycle management |
-| **Performance** | Structured relational schema for data integrity |
-| **Security** | Role-based data access (procurement records) |
-| **Impact** | Digitizes and automates a traditionally manual agri-supply process |
-| **Repository** | [Dairy-Procurement-Management-system](https://github.com/darshan-s-44/Dairy-Procurement-Management-system-main) |
-
-A practical full-stack application applying software engineering fundamentals to a real-world agricultural supply chain problem.
-
-### 🚢 Titanic Survival Analysis — Exploratory Data Analysis
-
-A comprehensive seven-phase exploratory data analysis of the Titanic dataset to identify key factors influencing passenger survival.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Pandas, Matplotlib/Seaborn |
-| **Scale** | Full structured EDA pipeline |
-| **Performance** | Multi-phase statistical & visual analysis |
-| **Impact** | Foundational demonstration of rigorous EDA methodology |
-| **Repository** | [Titanic-Survival-Analysis](https://github.com/darshan-s-44/Titanic-Survival-Analysis) |
-
-A structured, phase-driven approach to EDA that reflects disciplined data analysis practice rather than ad hoc exploration.
-
 ---
 
 ## 💼 Experience
