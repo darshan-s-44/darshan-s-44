@@ -248,27 +248,6 @@ Delivered end-to-end ML projects spanning fraud detection and workforce analysis
 
 ---
 
-## 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan-s-44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/darshan-s-44)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=darshan-s-44&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/darshan-s-44)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-s-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/darshan-s-44)
-
----
-
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=darshan-s-44&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/darshan-s-44)
-
----
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan-s-44&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9&area=true)](https://github.com/darshan-s-44)
-
----
-
 ## 🔭 Current Focus
 
 ```yaml
@@ -295,16 +274,6 @@ Open To:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-s-884685400)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-s-44)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://darshan-s-44.github.io/DARSHAN.S-personal-portfolio/)
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshan-s-44/darshan-s-44/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
